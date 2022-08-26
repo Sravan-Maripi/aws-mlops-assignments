@@ -16,7 +16,15 @@ Access the EC2-deployed flask app via the EC2-public URL at port 8085.
 
 ![ip](https://user-images.githubusercontent.com/100826424/183100753-f61ebd72-7dd0-4569-ac84-cad66d924db7.JPG)
 
+# Assignment2:
 
+![public ip](https://user-images.githubusercontent.com/100826424/186869278-78d78ac3-ff90-4435-b56c-01198bb2048d.JPG)
 
+load balancer
+![loadbalancer](https://user-images.githubusercontent.com/100826424/186869322-3815498f-caa6-4ad5-828b-929e5c6120ee.JPG)
 
+targets
+![targets](https://user-images.githubusercontent.com/100826424/186869357-681e69ee-a808-412f-8233-9a6d9f4c1674.JPG)
 
+stopping lambda function
+![stopping](https://user-images.githubusercontent.com/100826424/186869400-6f60008b-8f36-4743-a75d-8e74088e2b23.JPG)
